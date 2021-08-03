@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hallo there 👋
+
+introduce my name **Theo Sepdianto**.\
+I'm a **freelancer**.\
+I'm currently learning to be a **Android Developer**.\
+I have several competency certifications with the following link [Linkedin](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
+
 <p align="left">
 <a href="https://github.com/Teblung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
