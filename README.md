@@ -1,6 +1,7 @@
 ### Hallo there 👋
 
 introduce my name **Theo Sepdianto**.\
+I'm working at **PT. Infosys Solusi Terpadu** as **Android Developer** from September 2021 until now.\
 I'm a **freelancer**.\
 I'm currently learning to be a **Android Developer**.\
 I have several competency certifications with the following link [Linkedin](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
